@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import PwRegexValidator from './pw_regex_validator.js'
 
 export default class SignupForm extends Component {
   constructor(props) {

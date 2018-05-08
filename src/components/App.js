@@ -61,7 +61,7 @@ class App extends Component {
             <img className="col-2 emblem-left" src={emblemLeft} alt="3:00-9:00 pm"/>
             <div className="col-5">
               <div href="/">
-                <span className="align-middle branded-title-text">jBrown</span>
+                <span className="align-middle branded-title-text">streamer</span>
                 <span className="align-middle branded-title-offtext">.tv</span>
               </div>
             </div>
