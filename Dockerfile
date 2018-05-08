@@ -1,7 +1,7 @@
 FROM node:latest
 
 # Override log level
-# ENV NPM_CONFIG_LOGLEVEL warn
+ENV NPM_CONFIG_LOGLEVEL warn
 
 # Install and configure serve
 RUN npm install -g serve
