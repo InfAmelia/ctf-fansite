@@ -1,0 +1,102 @@
+header {
+  background-color: yellow;
+  height: 150px;
+  width: inherit;
+}
+
+h1 {
+  padding-top: 25px;
+  text-align: center;
+}
+
+.emblem-right {
+  padding: 0 0 0 0;
+}
+
+.emblem-left {
+  padding: 0 0 0 0;
+}
+
+.extra-right {
+  background-color: black;
+}
+
+.title-container {
+  text-align: left;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.branded-text {
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+/*.header-img {
+  height: 100%;
+}*/
+
+.material-icons {
+  align-content: center;
+}
+
+.title {
+  text-align: left;
+  padding-left: 1em;
+}
+
+.branded-title-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 100px;
+  color: black;
+  font-weight: 800;
+}
+
+.branded-title-offtext {
+  font-family: 'Roboto', sans-serif;
+  font-size: 100px;
+  color: black;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.branded-offtext {
+  margin-left: -10px;
+  margin-right: -10px;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.branded-text-emphasized {
+  font-family: 'Do Hyeon', sans-serif;
+  font-style: italic;
+}
+
+.card-body {
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+
+  min-height:495px;
+  max-height:495px;
+}
+
+.card-overflow-true {
+  max-width: 100px;
+
+}
+
+.card-footer {
+  max-height: 65px;
+}
+
+.chat {
+  background-color: #F7F7F7;
+  max-width: auto;
+  max-height: 495px;
+  overflow: auto;
+}
+
+input {
+  size: 5px;
+}

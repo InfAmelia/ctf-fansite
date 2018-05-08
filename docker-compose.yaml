@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  fansite:
+    build: .
+    ports:
+      - "8045:5000"
